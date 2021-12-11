@@ -11,7 +11,8 @@ final Food food;
 final String date;
 
 
-Order({this.food,this.restaurant, this.date});
+
+Order({this.food,  this.restaurant, this.date});
 
 
 

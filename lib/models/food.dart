@@ -8,7 +8,7 @@ final String imageUrl;
 final String name;
 final double price;
 
-Food({this.name, this.imageUrl, this.price});
+Food({ this.name, this.imageUrl,this.price});
 
 
 }
